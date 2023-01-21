@@ -1,0 +1,15 @@
+.settings
+.idea
+.allure
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+/target
+/test-output
+/classes
+/log
+/bin/
+/src/test/resources/clearfeed_config.properties
+/src/test/resources/app_user_config.json
